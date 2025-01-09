@@ -1,6 +1,6 @@
 # quantitative_trade
 
-This repository contains slides and codes for Quantitative International Economics, taught at University of Notre Dame, Spring 2025.
+This repository contains slides and codes for Quantitative International Economics, taught at University of Notre Dame, Spring 2025. I will be adding the slides and codes here in this repository over the semester.
 
 The tentative outline of the course is:
 

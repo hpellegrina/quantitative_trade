@@ -21,3 +21,5 @@ The tentative outline of the course is:
 - Dynamic models
   - Myopic agents or no anticipation
   - Forward looking with anticipation
+  
+This course is benefited by lectures notes and syllabi from several trade economists, some of which are publicly available, including Farid Farrokhi, Ahmad Lashkaripour, Treb Allen, Costas Arkolakis, Sebastian Sotelo, Natalia Ramondo, Dave Donaldson, Arnaud Costinot, Rob Johnson, Rafael Dix-Carneiro, and Thomas Chaney.

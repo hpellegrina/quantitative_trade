@@ -9,17 +9,17 @@ The tentative outline of the course is:
   - CES and Gravity
   - Model inversion, trade cost estimation, trade elasticity estimation
 - Firms
-  - Melitz
+  - Krugman, Melitz, and Chaney
   - Multinational
 - Economic Geography
   - Commuting and labor mobility
   - Agglomeration versus congestion
   - Migration
 - Trade and development
-  - Non-homothetic preferences, technology and structural change
+  - Non-homothetic preferences, technology, and structural change
   - Heterogeneous factors of production (land and labor)
 - Dynamic models
-  - Myopic agents or no anticipation
-  - Forward looking with anticipation
+  - Myopic agents (no anticipation)
+  - Forward looking (with anticipation)
   
 This course is benefited by lectures notes and syllabi from several trade economists, some of which are publicly available, including Farid Farrokhi, Ahmad Lashkaripour, Treb Allen, Costas Arkolakis, Sebastian Sotelo, Natalia Ramondo, Dave Donaldson, Arnaud Costinot, Rob Johnson, Rafael Dix-Carneiro, and Thomas Chaney.
